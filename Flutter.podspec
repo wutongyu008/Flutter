@@ -13,6 +13,6 @@ Flutter provides an easy and productive way to build and deploy high-performance
   s.license          = { :type => 'MIT' }
   s.author       = { "wutongyu008" => "wutongyu_08@163.com" }
   s.source           = { :git => 'https://github.com/wutongyu008/Flutter.git', :tag => s.version.to_s }
-  s.ios.deployment_target = '7.0'
+  s.ios.deployment_target = '8.0'
   s.vendored_frameworks = 'Flutter.framework'
 end
