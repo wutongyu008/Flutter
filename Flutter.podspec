@@ -4,7 +4,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'Flutter'
-  s.version          = '1.3.1'
+  s.version          = '1.2.1'
   s.summary          = 'FlutterEngine'
   s.description      = <<-DESC
 Flutter provides an easy and productive way to build and deploy high-performance mobile apps for Android and iOS.
